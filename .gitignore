@@ -1,0 +1,7 @@
+.env
+**/.history
+**/node_modules
+src/app/.next
+.next
+.next/static
+.vscode

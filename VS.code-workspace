@@ -1,0 +1,69 @@
+{
+  "folders": [
+    {
+      // Application Source Code
+      "name": "APP",
+      "path": "./src/app"
+    },
+    {
+      // Application and 3rd Party Library Theming
+      "name": "SERVER",
+      "path": "./src/server"
+    },
+    {
+      // Application and 3rd Party Library Theming
+      "name": "THEME",
+      "path": "./src/theme"
+    },
+    {
+      "name": "~",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "editor.rulers": [
+      120
+    ],
+    "npm.packageManager": "yarn",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "files.watcherExclude": {
+      "**/.history/**": true,
+      "**/.git/**": true,
+      "**/node_modules/**": true,
+      "**/.next/**": true
+    },
+    "search.exclude": {
+      "**/.history/**": true,
+      "**/.git/**": true,
+      "**/node_modules/**": true,
+      "**/.next/**": true,
+      "**/.dist/**": true
+    },
+    "files.exclude": {
+      "**/.history/**": true,
+      "**/.git": true,
+      "**/.vscode": true,
+      "**/.history": true,
+      "**/.next/**": true
+    },
+    "eslint.workingDirectories": [
+      "./"
+    ],
+    "eslint.nodePath": "node_modules",
+    "eslint.packageManager": "yarn",
+    "local-history.exclude": [
+      "**/.history/**",
+      "**/.vscode/**",
+      "**/node_modules/**",
+      "**/typings/**",
+      "**/out/**",
+      "**/Code/User/**",
+      "**/.tmp/**",
+      "**/.next/**"
+    ],
+    "local-history.daysLimit": 30
+  }
+}
