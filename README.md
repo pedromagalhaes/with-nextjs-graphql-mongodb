@@ -12,6 +12,7 @@ Features:
 - Setup Semantic UI React as UI framework
 - Setup ESLint, StyleLint, Prettier
 - Setup Husky for pre-commit
+- more coming soon ...
 
 
 ## 🧘 Quick Start
