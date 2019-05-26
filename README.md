@@ -2,6 +2,18 @@
 
 Full stack application with Website, Dashboard and Backoffice.
 
+Features:
+- Connection to MongoDB
+- Apollo and GraphQL queries, mutations, resolvers
+- Authentication with Passport and Express Session
+- Form validation with Formik
+- Setup loaders in Webpack
+- Setup dynamic and custom routes in Next.js
+- Setup Semantic UI React as UI framework
+- Setup ESLint, StyleLint, Prettier
+- Setup Husky for pre-commit
+
+
 ## 🧘 Quick Start
 
 1. **Install and switch to the correct version of Node using NVM**
