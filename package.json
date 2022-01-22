@@ -69,7 +69,7 @@
     "isomorphic-unfetch": "^3.0.0",
     "lint-staged": "^8.1.5",
     "mongoose": "^5.7.5",
-    "nanoid": "^2.0.1",
+    "nanoid": "^3.1.31",
     "next": "canary",
     "next-compose-plugins": "^2.1.1",
     "next-plugin-transpile-modules": "^2.0.0",
