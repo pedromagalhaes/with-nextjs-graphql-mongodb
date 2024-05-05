@@ -68,7 +68,7 @@
     "graphql-tag": "^2.5.0",
     "isomorphic-unfetch": "^3.0.0",
     "lint-staged": "^8.1.5",
-    "mongoose": "^5.7.5",
+    "mongoose": "^5.13.20",
     "nanoid": "^3.1.31",
     "next": "canary",
     "next-compose-plugins": "^2.1.1",
